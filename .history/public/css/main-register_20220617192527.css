@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+main{
+    background-color: #ebebeb;
+    margin: auto;
+    width: 90%;
+}
+input{
+    width: 80%;
+    height: 5%;
+    border: none;
+
+}
+label{
+    font-weight: bold;
+    font-size: 5px;
+
+}
+button{
+    width: 90%;
+    background-color: #4285F4;
+    color: #fff;
+    border: none;
+    
+}
+.botones{
+    margin:auto;
+    align-items: center;
+    }

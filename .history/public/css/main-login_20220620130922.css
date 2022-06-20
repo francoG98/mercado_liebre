@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+main{
+    background-color: #ebebeb;
+    margin: auto;
+    width: 90%;
+}
+input{
+    width: 80%;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 3px;
+    margin-bottom: 2px
+    margin-left: 10%;
+
+}
+button{
+    width: 80%;
+    height: 30px;
+    background-color: #4285F4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: auto;
+    margin: 10%;
+    margin-bottom: 2px;
+    margin-top: 3px;    
+}
