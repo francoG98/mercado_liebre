@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+main{
+    background-color: #ebebeb;
+    margin-left: 5%;
+    width: 90%;
+}
+input{
+    width: 40%;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-top: 1%
+
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+
+}
+main button{
+    width: 40%;
+    height: 30px;
+    background-color: #4285F4;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: auto;
+    margin-left: 30%;
+    margin-bottom: 1%;
+    margin-top: 1%;    
+}
+main p{
+    display: flex;
+    width: 100%;
+    max-width: 950px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-left: 40%;
+}
+.botones{
+    margin:auto;
+    justify-content: center;
+    display: block;
+    
+    }
+.radio{
+    display: block;
+    height: 1vh;
+    
+}
+.perfil-usuario{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+}
+.foto-usuario{
+    display: flex;
+    justify-content: center;
+    max-width: 950px;
+}
+.categorias-interes{
+    display: block;
+    flex-wrap: wrap;
+    justify-content: left;
+    max-width: 950px;
+}
